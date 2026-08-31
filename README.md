@@ -2,139 +2,115 @@
 
 ## Project Overview
 
-AtliQ Business Insights 360 is an end-to-end Power BI project designed to provide comprehensive business insights across multiple business functions, including Finance, Sales, Marketing, Supply Chain, and Executive Management.
+This project aims to streamline and optimize various aspects of AtliQ Hardware's business, including Finance, Sales, Supply Chain, Executive Management, and Marketing. The primary objectives and key achievements for each perspective are outlined below.
 
-The project transforms raw business data into interactive dashboards that help stakeholders monitor performance, identify trends, and make data-driven business decisions.
-### live dashboard link -https://app.powerbi.com/view?r=eyJrIjoiY2EyYTY1ZDktNDAxMy00YmRjLWEwMTItZDVhYTQ3ZmNhOTI0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true
-The primary objective of this project is to build a centralized Business Intelligence solution that enables stakeholders to analyze key business metrics and performance from different functional perspectives.
+### Live Dashboard Link
 
-##  Tools & Technologies Used
+https://app.powerbi.com/view?r=eyJrIjoiY2EyYTY1ZDktNDAxMy00YmRjLWEwMTItZDVhYTQ3ZmNhOTI0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true&pageName=14de7dcec0225094e480
 
-* Power BI Desktop
-* Power Query
-* DAX
-* Data Modeling
-* SQL
-* Excel
+## Finance View
 
-##  Dashboard Views
+### Objectives
 
-###  Finance View
+1. Improve financial planning and budgeting processes.
+2. Enhance cost control and expense management.
 
-**Key Focus Areas:**
+### Key Achievements
 
-* Net Sales Performance
-* Gross Margin and Gross Margin %
-* Net Profit and Net Profit %
-* Performance comparison against previous year and targets
-* P&L statement analysis
+1. Implemented a robust financial forecasting model, resulting in more accurate budget predictions.
+2. Created benchmarking against last year and target goals for budgeting.
 
-###  Sales View
+## Sales View
 
-**Key Focus Areas:**
+### Objectives
 
-* Customer Performance Analysis
-* Product Performance Analysis
-* Sales Trends
-* Unit Economics
-* Key Performance Indicators
+1. Increase sales revenue and market share.
+2. Enhance customer relationship management.
 
-### 📢 Marketing View
+### Key Achievements
 
-**Key Focus Areas:**
+1. Created customer and product overall sales performance reports and unit economics analysis.
+2. Identified sales trends and tracked key KPIs.
 
-* Market Performance Analysis
-* Product and Region Performance
-* Net Sales and Gross Margin Analysis
-* Unit Economics
-* Market Trends and KPIs
+## Supply Chain View
 
-###  Supply Chain View
+### Objectives
 
-**Key Focus Areas:**
+1. Optimize inventory management and reduce lead times.
+2. Enhance supplier relationships for cost savings.
 
-* Forecast Accuracy %
-* Net Error %
-* Absolute Error %
-* Customer-wise Forecast Performance
-* Product-wise Forecast Performance
+### Key Achievements
 
-###  Executive View
+1. Identified Forecast Accuracy %, Net Error %, and Absolute Error % trends.
+2. Analyzed key metrics by customers and products to support supply management.
 
-**Key Focus Areas:**
+## Executive View
 
-* Overall Business Performance
-* Revenue by Division
-* Customer Performance
-* Product Performance
-* Channel Performance
-* Manufacturer Analysis
+### Objectives
 
-##  Key KPIs
+1. Provide an overview of the entire organization's performance.
+2. Enable data-driven decision-making for top management.
 
-The dashboard tracks important business metrics such as:
+### Key Achievements
 
-* Net Sales
-* Gross Margin
-* Gross Margin %
-* Net Profit
-* Net Profit %
-* Forecast Accuracy %
-* Net Error %
-* Absolute Error %
-* YTD (Year to Date)
-* YTG (Year to Go)
+1. Developed an executive dashboard for overall performance monitoring.
+2. Analyzed revenue by division, customers, products, and channels, along with manufacturer performance.
 
-##  Skills Demonstrated
+## Marketing View
 
-### Power BI Skills
+### Objectives
 
-* Data Cleaning and Transformation using Power Query
-* Data Modeling
-* Creating Calculated Columns and DAX Measures
-* KPI Development
-* Conditional Formatting
-* Bookmarks
-* Dynamic Visuals
-* Page Navigation
-* Tooltips
-* Dynamic Titles
-* Data Validation
-* Interactive Dashboard Design
+1. Increase brand visibility and customer engagement.
+2. Implement data-driven marketing strategies.
 
-### Business & Domain Knowledge
+### Key Achievements
 
-* Finance and P&L Analysis
-* Sales Analytics
-* Marketing Analytics
-* Supply Chain Analytics
-* Customer and Product Performance Analysis
+1. Created region-wise and product-wise overall market performance reports and unit economics analysis.
+2. Identified market trends and tracked key KPIs.
 
-### Business Terms Used
+## Skills
 
-* Gross Margin
-* Gross Margin %
-* Gross Sales
-* Pre-Invoice Deductions
-* Post-Invoice Deductions
-* Net Sales
-* Net Profit
-* COGS (Cost of Goods Sold)
-* YTD (Year to Date)
-* YTG (Year to Go)
+### Learnt Power BI Fundamentals
 
-##  Key Learning
+1. Creating calculated columns and DAX measures.
+2. Data modeling and data validation techniques.
+3. Using KPI indicators and conditional formatting.
+4. Using bookmarks to switch between visuals.
+5. Page navigation using buttons.
+6. Using tooltips to optimize report page space.
+7. Creating dynamic titles based on applied filters.
+8. Publishing and sharing reports using Power BI Service.
+9. Creating a date table using M language.
 
-Through this project, I gained hands-on experience in building an end-to-end Business Intelligence solution using Power BI.
+## Tech Stacks
 
-The project helped me strengthen my understanding of data modeling, DAX calculations, business KPIs, dashboard design, and business analysis across multiple domains.
+1. SQL
+2. Power BI Desktop
+3. DAX
+4. DAX Studio
+5. Power BI Service
+6. Project Charter
 
-##  Dashboard Preview
+## Business Related Terms
 
-Dashboard screenshots are available in this repository.
+1. Gross Margin and Gross Margin %
+2. Gross Sales and Gross Sales %
+3. Pre-Invoice Deductions and Post-Invoice Deductions
+4. Net Sales and Net Invoice Sales
+5. Net Profit and Net Profit %
+6. COGS (Cost of Goods Sold)
+7. YTG (Year to Go)
+8. YTD (Year to Date)
+9. Direct, Retailer, Consumer, and Distributor
 
-##  Conclusion
+## Soft Skills
 
-This interactive Business Intelligence dashboard provides a comprehensive view of business performance across multiple functional areas.
+1. Stakeholder Mapping Analysis
+2. Effective Communication and Stakeholder Feedback Management
+3. Business and Domain Knowledge in Sales, Finance, Marketing, and Supply Chain
 
-It enables stakeholders to monitor important KPIs, identify trends and performance gaps, and support data-driven decision-making.
+## Conclusion
+
+This dashboard answers various business questions across different scenarios.
+
+The report can be used to support data-driven decision-making and help improve overall business performance and profitability.
