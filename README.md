@@ -137,3 +137,6 @@ The report can be used to support data-driven decision-making and help improve o
 
 ### Executive View
 ![Executive View](images/07_Executive_View.png)
+
+### Data Modeling View
+![data Modeling View](images/08_data_modeling_View.png)
