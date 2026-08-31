@@ -5,6 +5,7 @@
 AtliQ Business Insights 360 is an end-to-end Power BI project designed to provide comprehensive business insights across multiple business functions, including Finance, Sales, Marketing, Supply Chain, and Executive Management.
 
 The project transforms raw business data into interactive dashboards that help stakeholders monitor performance, identify trends, and make data-driven business decisions.
+### live dashboard link https://app.powerbi.com/view?r=eyJrIjoiY2EyYTY1ZDktNDAxMy00YmRjLWEwMTItZDVhYTQ3ZmNhOTI0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true
 
 ##  Project Objective
 
