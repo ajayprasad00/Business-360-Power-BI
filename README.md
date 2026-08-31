@@ -114,3 +114,26 @@ https://app.powerbi.com/view?r=eyJrIjoiY2EyYTY1ZDktNDAxMy00YmRjLWEwMTItZDVhYTQ3Z
 This dashboard answers various business questions across different scenarios.
 
 The report can be used to support data-driven decision-making and help improve overall business performance and profitability.
+
+## 📷 Dashboard Preview
+
+### Home Page
+![Home Page](images/01_Home_Page.png)
+
+### info View
+![info View](images/02_info_View.png)
+
+### Finance View
+![Finance View](images/03_Finance_View.png)
+
+### Sales View
+![Sales View](images/04_Sales_View.png)
+
+### Marketing View
+![Marketing View](images/05_Marketing_View.png)
+
+### Supply Chain View
+![Supply Chain View](images/06_Supply_Chain_View.png)
+
+### Executive View
+![Executive View](images/07_Executive_View.png)
