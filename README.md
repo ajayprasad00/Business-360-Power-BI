@@ -118,10 +118,10 @@ The report can be used to support data-driven decision-making and help improve o
 ## 📷 Dashboard Preview
 
 ### Home Page
-![Home Page](images/01_Home_Page.png)
+![Home Page](images/01_Home_view.png)
 
 ### info View
-![info View](images/02_info_View.png)
+![info View](images/02_info_view.png)
 
 ### Finance View
 ![Finance View](images/03_Finance_View.png)
