@@ -1,16 +1,16 @@
 # AtliQ Business Insights 360
 
-## 📊 Project Overview
+## Project Overview
 
 AtliQ Business Insights 360 is an end-to-end Power BI project designed to provide comprehensive business insights across multiple business functions, including Finance, Sales, Marketing, Supply Chain, and Executive Management.
 
 The project transforms raw business data into interactive dashboards that help stakeholders monitor performance, identify trends, and make data-driven business decisions.
 
-## 🎯 Project Objective
+##  Project Objective
 
 The primary objective of this project is to build a centralized Business Intelligence solution that enables stakeholders to analyze key business metrics and performance from different functional perspectives.
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 * Power BI Desktop
 * Power Query
@@ -19,9 +19,9 @@ The primary objective of this project is to build a centralized Business Intelli
 * SQL
 * Excel
 
-## 📈 Dashboard Views
+##  Dashboard Views
 
-### 💰 Finance View
+###  Finance View
 
 **Key Focus Areas:**
 
@@ -31,7 +31,7 @@ The primary objective of this project is to build a centralized Business Intelli
 * Performance comparison against previous year and targets
 * P&L statement analysis
 
-### 📊 Sales View
+###  Sales View
 
 **Key Focus Areas:**
 
@@ -51,7 +51,7 @@ The primary objective of this project is to build a centralized Business Intelli
 * Unit Economics
 * Market Trends and KPIs
 
-### 🚚 Supply Chain View
+###  Supply Chain View
 
 **Key Focus Areas:**
 
@@ -61,7 +61,7 @@ The primary objective of this project is to build a centralized Business Intelli
 * Customer-wise Forecast Performance
 * Product-wise Forecast Performance
 
-### 👔 Executive View
+###  Executive View
 
 **Key Focus Areas:**
 
@@ -72,7 +72,7 @@ The primary objective of this project is to build a centralized Business Intelli
 * Channel Performance
 * Manufacturer Analysis
 
-## 🧮 Key KPIs
+##  Key KPIs
 
 The dashboard tracks important business metrics such as:
 
@@ -87,7 +87,7 @@ The dashboard tracks important business metrics such as:
 * YTD (Year to Date)
 * YTG (Year to Go)
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 
 ### Power BI Skills
 
@@ -125,17 +125,17 @@ The dashboard tracks important business metrics such as:
 * YTD (Year to Date)
 * YTG (Year to Go)
 
-## 💡 Key Learning
+##  Key Learning
 
 Through this project, I gained hands-on experience in building an end-to-end Business Intelligence solution using Power BI.
 
 The project helped me strengthen my understanding of data modeling, DAX calculations, business KPIs, dashboard design, and business analysis across multiple domains.
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 Dashboard screenshots are available in this repository.
 
-## 📌 Conclusion
+##  Conclusion
 
 This interactive Business Intelligence dashboard provides a comprehensive view of business performance across multiple functional areas.
 
